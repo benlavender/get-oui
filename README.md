@@ -11,3 +11,9 @@ Supports numerous formats such as:
 `xx.xx.xx`<br>
 `xx:xx:xx`<br>
 `xxxx-xx`<br>
+
+## Scripts and binaries:
+
+| **Shell/App** | **Location:** |
+| -- | -- |
+| BASH | 
