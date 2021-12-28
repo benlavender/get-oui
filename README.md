@@ -16,4 +16,4 @@ Supports numerous formats such as:
 
 | **Shell/App** | **Location:** |
 | -- | -- |
-| BASH | 
+| BASH | https://github.com/benlavender/get-oui/blob/main/shells/get-oui.sh |
